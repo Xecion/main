@@ -2,3 +2,4 @@ Xecion Resolusi
 
 1. Konsisten mengembangkan WEB
 2. konsisten dalam pembuatan aplikasi
+3. Membuat SHOP App
